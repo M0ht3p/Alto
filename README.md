@@ -5,7 +5,7 @@
 Alto is an interactive, decision-matrix recommendation engine built for Open Source Intelligence (OSINT) practitioners, threat intelligence analysts, and researchers.
 
 Instead of searching through static link lists, Alto takes your current investigative starting points (e.g., username, email, IP address) and desired research goals to immediately recommend the exact OSINT tools, frameworks, and methodologies best suited for your objective.
-#✨ Features :
+✨ #Features :
 
  Goal-Oriented Discovery: Filter tools based on what you are trying to achieve (e.g., Username Enumeration, Breach Analysis, Domain Infrastructure, Geolocation).
 
