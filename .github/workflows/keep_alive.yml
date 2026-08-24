@@ -2,7 +2,6 @@ name: Keep Streamlit App Alive
 
 on:
   schedule:
-    # Runs every 2 days at midnight UTC
     - cron: '0 0 */2 * *'
   workflow_dispatch:
 
