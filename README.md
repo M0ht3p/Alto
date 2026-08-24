@@ -20,3 +20,6 @@ Lightweight & Fast: Built on top of Python and Streamlit for an intuitive interf
 **⚖️ Ethics & Responsible Use :**
 
 Alto is designed strictly for educational, defensive, and lawful research purposes. All tools recommended within this platform rely exclusively on publicly available data (OSINT) and passive intelligence collection techniques. Users are expected to respect rate limits, adhere to target terms of service, and comply with local cybersecurity regulations.
+
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
