@@ -35,7 +35,7 @@ If you want to run **Alto** locally on your machine:
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/M0ht3p/Alto.git](https://github.com/M0ht3p/Alto.git)
+   git clone https://github.com/M0ht3p/Alto.git
    cd Alto
    ```
 
