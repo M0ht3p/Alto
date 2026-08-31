@@ -1,6 +1,9 @@
 <img width="1600" height="736" alt="image" src="https://github.com/user-attachments/assets/dbd02536-6b4a-4748-9a60-8aebff1efb56" />
 
 # Alto
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
+
 **Discover the interactive WikINT Alto**
 
 🔍 Alto — Interactive OSINT Tool Recommendation Engine
