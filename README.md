@@ -1,3 +1,5 @@
+<img width="1600" height="736" alt="image" src="https://github.com/user-attachments/assets/dbd02536-6b4a-4748-9a60-8aebff1efb56" />
+
 # Alto
 **Discover the interactive WikINT Alto**
 
