@@ -28,3 +28,23 @@ Alto is designed strictly for educational, defensive, and lawful research purpos
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## 🛠️ Local Installation & Usage
+
+If you want to run **Alto** locally on your machine:
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/M0ht3p/Alto.git](https://github.com/M0ht3p/Alto.git)
+   cd Alto
+   ```
+
+2. **Install dependencies**
+```bash
+   pip install -r requirements.txt
+```
+
+3. **Launch the application**
+```bash
+   streamlit run v2.2.py
+```
