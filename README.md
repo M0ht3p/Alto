@@ -1,7 +1,7 @@
 <img width="1600" height="736" alt="image" src="https://github.com/user-attachments/assets/dbd02536-6b4a-4748-9a60-8aebff1efb56" />
 
 # Alto
-![License](https://img.shields.io/badge/license-MIT-green)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 
 **Discover the interactive WikINT Alto**
